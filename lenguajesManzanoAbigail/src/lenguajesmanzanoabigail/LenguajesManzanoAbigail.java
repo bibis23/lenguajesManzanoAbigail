@@ -16,7 +16,8 @@ public class LenguajesManzanoAbigail {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-      System.out.println("Bienvenidos al curso de Lenguajes"); // TODO code application logic here
+      System.out.println("Bienvenidos al curso de Lenguajes");
+      System.out.println("buuu");// TODO code application logic here
     }
     
 }
